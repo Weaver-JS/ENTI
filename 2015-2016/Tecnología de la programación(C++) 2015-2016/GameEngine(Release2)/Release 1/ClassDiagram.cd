@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ErrorManagement">
+    <Position X="0.5" Y="7" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ErrorManagement.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAQgAgBVAAAAAAAAAAAAEAAAiAAAIiJAAAAgAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SDLInterface">
+    <Position X="10.5" Y="0.5" Width="11.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IFgigAAAB0gAIABAAoQAABABEgAgYAhAFAAiAAJYARI=</HashCode>
+      <FileName>SDLInterface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputManager">
+    <Position X="5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAABgAhIAFABAABIgAEAAA=</HashCode>
+      <FileName>InputManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite">
+    <Position X="5" Y="4.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAAAAAAAAAAAEAIAQCAAAaEAQAhAAAAAAAoI=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="GameState">
+    <Position X="0.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>GameConstants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
